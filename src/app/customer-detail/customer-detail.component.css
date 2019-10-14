@@ -1,0 +1,15 @@
+.example-card {
+  max-width: 500px;
+}
+
+.button-row {
+  margin: 10px 0;
+}
+.heading-align{
+  float: right;
+  width: 90%;
+  margin-top: 0px;
+}
+.right{
+  float:right;
+}
